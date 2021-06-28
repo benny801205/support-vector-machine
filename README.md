@@ -1,5 +1,5 @@
-# SVM
-Support Vector Machine
+# Support Vector Machine
+Machine Learning, build a SVM model, and train it with given data.
 ## Library
 numpy, scipy
 
