@@ -1,5 +1,5 @@
-# support-vector-machine
-
+# SVM
+Support Vector Machine
 ## Library
 numpy, scipy
 
